@@ -1,0 +1,54 @@
+
+form {
+	margin-left: 15px;
+	padding-top: 15px;
+	margin-right: 15px;
+}
+
+p {
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-right: 15px;
+	color: white;
+}
+
+.login {
+	padding-top: 3%;
+	padding-left: 35%;
+	padding-right: 35%;
+	text-align: center;
+	/*background-color: black;*/
+}
+@media(max-width: 500px){
+	.login {
+		padding-top: 3%;
+		padding-left: 3%;
+		padding-right: 3%;
+		text-align: center;
+		/*background-color: black;*/
+	}
+}
+
+div#header {
+	padding-top: 10%;
+}
+
+body#table {
+	background-color: #32383e;
+}
+
+table {
+	margin-top: 0.75%;
+}
+p#title {
+	text-align: center;
+	color: white;
+}
+
+body{
+	background-color: #32383e;
+}
+
+h3, label {
+	color: white;
+}
